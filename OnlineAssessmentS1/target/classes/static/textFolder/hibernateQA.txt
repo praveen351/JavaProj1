@@ -1,0 +1,10 @@
+Q:What is the full form of ORM?	
+A:Object Relational Mapping
+Q:In Hibernate, based on directionality, what could be the mappings?	
+A:uni-directional & bi-directional
+Q:In an Hibernate application, which file would have datasource details?	
+A:configuration file
+Q:What is the full form of HQL?	
+A:Hibernate Query Language
+Q:In an Hibernate application, concurrency can be controlled by setting?
+A:isolation levels

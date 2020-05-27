@@ -1,0 +1,10 @@
+Q:What is spring?	
+A:J2EE App Development Framework
+Q:What is the full form of IOC?	
+A:Inversion Of Control
+Q:What is the full form of AOP?	
+A:Aspect Oriented Programming
+Q:Which of the below is a spring container?	
+A:Application Context
+Q:Which is Spring's front Controller Implementation?	
+A:Dispatcher Servlet
